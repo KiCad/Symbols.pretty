@@ -1,11 +1,11 @@
-(module CE_42x30mm_SilkScreen (layer F.Cu) (tedit 0)
+(module CE-Logo_42x30mm_SilkScreen (layer F.Cu) (tedit 0)
   (descr "CE marking")
   (tags "Logo CE certification")
   (attr virtual)
   (fp_text reference REF*** (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value CE_42x30mm_SilkScreen (at 0.75 0) (layer F.Fab) hide
+  (fp_text value CE-Logo_42x30mm_SilkScreen (at 0.75 0) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_poly (pts (xy -5.262947 -14.961535) (xy -4.94303 -14.953299) (xy -4.711674 -14.938564) (xy -4.610723 -14.922974)
