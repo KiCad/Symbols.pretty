@@ -1,6 +1,6 @@
 (module FCC-Logo_14.6x12mm_SilkScreen (layer F.Cu) (tedit 0)
-  (descr "CE marking")
-  (tags "Logo CE certification")
+  (descr "FCC marking")
+  (tags "Logo FCC certification")
   (attr virtual)
   (fp_text reference REF*** (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
